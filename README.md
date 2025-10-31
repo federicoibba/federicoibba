@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Federico 👋
 
-<!--
-**federicoibba/federicoibba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Enthusiast & Builder: Full-Stack Development, Cloud, and AI
+Deeply passionate about technology and continuously enthusiastic about discovering and implementing new things. I love turning ideas into robust, functional solutions!
 
-Here are some ideas to get you started:
+### 🔧 Expertise Highlights  
+- 🌐 **Web Technologies**: Building dynamic, modern web experiences with a focus on **Nuxt.js** and **Vue.js** on the frontend.  
+- ☁️ **Cloud Computing**: Leveraging AWS services to design and deploy scalable, resilient, and cost-effective applications. Exploring IaC using Terraform.  
+- 🧠 **AI/ML & LLMs**: Eagerly exploring and applying Large Language Models (LLM) to create intelligent, next-generation features using Python.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with me
+Check out my projects and learn more about my work on my website and portfolio: https://federicoibba.com
+
